@@ -9,4 +9,4 @@ iBrawl is a Brawl Stars mod currently in development, all young and without any 
 
 --------
 
-https://dsc.gg/ibrawl
+DISCORD : https://dsc.gg/ibrawl
