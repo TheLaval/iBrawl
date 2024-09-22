@@ -2,10 +2,10 @@
 
 iBrawl is a Brawl Stars mod currently in development, all young and without any grandiose additions. For now, just a few adjustments:
 
-- Tick : Health, Damage
-- Max : Speed, Health, Damage
-- 8-Bit : Speed
-- Colt : Damage, Bullet
+- _Tick_ : **Health, Damage**
+- _Max_ : **Speed, Health, Damage**
+- _8-Bit_ : **Speed**
+- _Colt_ : **Damage, Bullet**
 
 --------
 
