@@ -1,6 +1,4 @@
-# iBrawl - Full V1
-
-Check out the changes, new features and more here!
+# [iBrawl - Full V1](https://github.com/TheLaval/iBrawl/releases/tag/v1.0.0-full)
 
 ﹌﹌﹌﹌﹌
 
@@ -9,6 +7,7 @@ Check out the changes, new features and more here!
 • [Mediafire](https://www.mediafire.com/file/4kts468nkjkrdc2/iBrawl+Full+V1.apk/file)
 • [Github](https://github.com/TheLaval/iBrawl/releases/download/v1.0.0-full/iBrawl.Full.V1.apk) (recommended)
 
-![1000017853](https://github.com/user-attachments/assets/043ad0cf-d3b6-4bbd-a391-8724e02702f3)
+![1000027537](https://github.com/user-attachments/assets/f3cc0697-320c-400b-a9a1-92eb70797950)
+
 
 
