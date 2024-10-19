@@ -1,7 +1,7 @@
 # [iBrawl - Full V1](https://github.com/TheLaval/iBrawl/releases/tag/v1.0.0-full) news
 # DISCORD : [iBrawl](https://dsc.gg/ibrawl)
 # DOWNLOAD :
-• [Mediafire](https://www.mediafire.com/file/4kts468nkjkrdc2/iBrawl+Full+V1.apk/file)
+• [Mediafire](https://www.mediafire.com/file/4kts468nkjkrdc2/iBrawl+Full+V1.apk/file?dkey=chkmsnxbl6j&r=1640)
 
 • [Github](https://github.com/TheLaval/iBrawl/releases/download/v1.0.0-full/iBrawl.Full.V1.apk) (recommended)
 
