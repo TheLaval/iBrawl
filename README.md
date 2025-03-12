@@ -1,3 +1,5 @@
+# ⚠ THIS MOD / GITHUB / DISCORD HAS BEEN DISCONTINUED, YOU CAN STILL SEE / PLAY THEM
+
 # [iBrawl - Full V1](https://github.com/TheLaval/iBrawl/releases/tag/v1.0.0-full) news
 # DISCORD : [iBrawl](https://dsc.gg/ibrawl)
 # DOWNLOAD :
